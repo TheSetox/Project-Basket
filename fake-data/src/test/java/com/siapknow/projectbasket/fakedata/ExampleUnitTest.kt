@@ -1,4 +1,4 @@
-package com.siapknow.projectbasket.testdata
+package com.siapknow.projectbasket.fakedata
 
 import org.junit.Test
 
