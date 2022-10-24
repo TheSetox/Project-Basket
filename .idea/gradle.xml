@@ -7,8 +7,7 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Gradle/gradle-6.6" />
-        <option name="gradleJvm" value="1.8" />
+        <option name="gradleJvm" value="11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -16,9 +15,9 @@
             <option value="$PROJECT_DIR$/basket-library" />
             <option value="$PROJECT_DIR$/data" />
             <option value="$PROJECT_DIR$/domain" />
+            <option value="$PROJECT_DIR$/fake-data" />
             <option value="$PROJECT_DIR$/test-app" />
             <option value="$PROJECT_DIR$/test-basket-library" />
-            <option value="$PROJECT_DIR$/test-data" />
           </set>
         </option>
       </GradleProjectSettings>
