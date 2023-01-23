@@ -2,12 +2,21 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.8">
+      <module name="data" target="11" />
+      <module name="fake-data" target="11" />
       <module name="Project_Basket.app" target="11" />
+      <module name="Project_Basket.app.di" target="11" />
       <module name="Project_Basket.basket-library" target="11" />
-      <module name="Project_Basket.data" target="11" />
-      <module name="Project_Basket.fake-data" target="11" />
-      <module name="Project_Basket.test-app" target="11" />
-      <module name="Project_Basket.test-basket-library" target="11" />
+      <module name="Project_Basket.core.data" target="11" />
+      <module name="Project_Basket.core.fake-data" target="11" />
+      <module name="Project_Basket.core.test-app" target="11" />
+      <module name="Project_Basket.core.test-basket-library" target="11" />
+      <module name="Project_Basket.shared-library.basket-library" target="11" />
+      <module name="Project_Basket.tests.fake-data" target="11" />
+      <module name="Project_Basket.tests.test-app" target="11" />
+      <module name="Project_Basket.tests.test-basket-library" target="11" />
+      <module name="test-app" target="11" />
+      <module name="test-basket-library" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

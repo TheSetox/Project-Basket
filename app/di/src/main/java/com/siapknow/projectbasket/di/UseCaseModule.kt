@@ -1,4 +1,4 @@
-package com.siapknow.projectbasket
+package com.siapknow.projectbasket.di
 
 import com.siapknow.projectbasket.data.NihongoDataRepository
 import com.siapknow.projectbasket.domain.repository.NihongoRepository

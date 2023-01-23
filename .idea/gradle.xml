@@ -12,12 +12,17 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/basket-library" />
-            <option value="$PROJECT_DIR$/data" />
-            <option value="$PROJECT_DIR$/domain" />
-            <option value="$PROJECT_DIR$/fake-data" />
-            <option value="$PROJECT_DIR$/test-app" />
-            <option value="$PROJECT_DIR$/test-basket-library" />
+            <option value="$PROJECT_DIR$/app/di" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/core/data" />
+            <option value="$PROJECT_DIR$/core/di" />
+            <option value="$PROJECT_DIR$/core/domain" />
+            <option value="$PROJECT_DIR$/shared-library" />
+            <option value="$PROJECT_DIR$/shared-library/basket-library" />
+            <option value="$PROJECT_DIR$/tests" />
+            <option value="$PROJECT_DIR$/tests/fake-data" />
+            <option value="$PROJECT_DIR$/tests/test-app" />
+            <option value="$PROJECT_DIR$/tests/test-basket-library" />
           </set>
         </option>
       </GradleProjectSettings>
